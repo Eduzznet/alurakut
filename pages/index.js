@@ -15,12 +15,8 @@ function ProfileSidebar(propriedades) {
 export default function Home() {
   const usuarioAleatorio = 'eduzznet';
   const pessoasFavoritas = [
-    'juunegreiros',
-    'omariosouto',
-    'peas',
-    'rafaballerini',
-    'marcobrunodev',
-    'felipefialho'
+    'gasech',
+    'teofilooooo',
   ]
 
   return (
